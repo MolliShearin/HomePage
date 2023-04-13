@@ -10,6 +10,7 @@ body {
     background-size: cover;
 }
 
+/*Title text*/
 h1 {
     color:rgb(58, 18, 26);
     text-align: center;
@@ -21,6 +22,7 @@ h1 {
     text-decoration: underline;
 }
 
+/*Class and year text*/
 h3 {
     color: rgb(58, 18, 26);
     text-align: center;
@@ -29,6 +31,7 @@ h3 {
     text-shadow: 1px 1px rgb(248, 207, 93);
 }
 
+/*Navigation bar*/
 nav {
     text-align: center;
     padding-top: 30px;
